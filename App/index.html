@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Search App</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="logo">
+      <img src="./src/logo.png" alt="SymptoMedica Logo">
+    </div>
+  </nav>
+  <div class="container">
+    <div class="search-container">
+      <input type="text" id="searchBox" oninput="filterSymptoms()" placeholder="Search for symptoms...">
+
+      <div id="symptomContainer" class="symptom-container">
+        <!-- Symptoms will be dynamically added here -->
+      </div>
+
+      <div class="button-container">
+        <button id="submitBtn" onclick="submitForm()">Submit</button>
+        <button id="clearBtn" onclick="clearForm()">Clear</button>        
+      </div>
+    </div>
+    <div id="responseContainer" class="response-container">
+      <!-- Response will be dynamically added here -->
+    </div>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
