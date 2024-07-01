@@ -105,8 +105,16 @@ symptomedica/
 - **`diseases_dict.pkl`**: Pickle file mapping disease classes to disease names.
 - **`symptoms_dict.pkl`**: Pickle file mapping symptoms to indices.
 
-## Demo Video
+## Screenshots
 
-<video width="600" controls>
-  <source src="rec.mp4" type="video/mp4">
-</video>
+### Landing
+![landing](./screenshots/ss1.png)
+
+### Search Symptoms
+![landing](./screenshots/ss2.png)
+
+### Check The Box
+![landing](./screenshots/ss3.png)
+
+### Click Submit
+![landing](./screenshots/ss4.png)
