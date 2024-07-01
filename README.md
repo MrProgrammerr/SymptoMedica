@@ -107,7 +107,6 @@ symptomedica/
 
 ## Screenshots
 
-<<<<<<< HEAD
 ### Landing
 ![landing](./screenshots/ss1.png)
 
@@ -119,6 +118,3 @@ symptomedica/
 
 ### Click Submit
 ![landing](./screenshots/ss4.png)
-=======
-[See Recording](./rec.mp4)
->>>>>>> dc64b584166b483447c0e995903a7f4ed794abba
