@@ -107,6 +107,4 @@ symptomedica/
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="rec.mp4" type="video/mp4">
-</video>
+[See Recording](./rec.mp4)
